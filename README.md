@@ -10,7 +10,7 @@ Add View to your app for free. Learn pricing for all features [here](https://www
 
 https://react-pdf-demo-sigma.vercel.app/
 
-Want to see the source code for the above demo? Find it [here](https://github.com/prodfox-pdf/react-pdf-demo).
+Want to see the source code for the above demo? Find it [here]([https://github.com/alien35/vue-pdf-demo).
 
 # Quick start
 
