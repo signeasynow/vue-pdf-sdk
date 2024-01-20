@@ -8,7 +8,7 @@ Add View to your app for free. Learn pricing for all features [here](https://www
 
 # Demo
 
-https://react-pdf-demo-sigma.vercel.app/
+https://www.smartpricedoc.com/edit-your-pdf
 
 Want to see the source code for the above demo? Find it [here]([https://github.com/alien35/vue-pdf-demo).
 
