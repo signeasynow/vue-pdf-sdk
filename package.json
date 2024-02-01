@@ -1,5 +1,5 @@
 {
-  "name": "@prodfox/vue-ui-plugin",
+  "name": "@prodfox/vue-pdf-editor",
   "version": "1.0.8",
   "description": "",
   "main": "dist/pdf-vue-library.js",

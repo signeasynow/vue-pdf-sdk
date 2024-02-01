@@ -97,7 +97,6 @@ export const useCreateIframeAndLoadViewer = ({
   };
 
   onMounted(() => {
-    console.log('onMounted called');
     window.parent.addEventListener('message', handleIframeLoaded);
   });
 
@@ -116,7 +115,6 @@ export const useCreateIframeAndLoadViewer = ({
   };
 
   onMounted(() => {
-    console.log(container, 'container')
     if (!container?.value) {
       return;
     }
